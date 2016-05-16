@@ -10,4 +10,3 @@ https://en.wikipedia.org/wiki/SimFarm
 
 Sample Interface
 ![alt tag](http://i.imgur.com/ERUOKPr.png)
-![alt tag](sampleimage.png)
