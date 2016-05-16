@@ -1,2 +1,4 @@
 # SimFarm
-A board game in which players build and manage a virtual farm
+Farm simulation game created in May 2014 as part of a classroom group project.
+
+![alt tag](http://i.imgur.com/ERUOKPr.png)
